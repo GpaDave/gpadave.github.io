@@ -5,6 +5,6 @@
 </section>
 <section>
     <h2>Section 2</h2>
-    <p>This is a test of a webp format image added using markdown.</p>
-    ![My bike](/docs/assets/images/daves_creo.webp)
+    <p>This is a test of a webp format image added using an img element.</p>
+    <img src="/docs/assets/images/daves_creo.webp" alt="Dave's bike">
 </section>
